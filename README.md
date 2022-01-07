@@ -36,6 +36,10 @@ O metodo 1 consiste no uso de Runbooks e agendas para executar scripts de ligame
 
  ![image](https://user-images.githubusercontent.com/83661016/148554872-041b558f-ad33-467e-b202-eff0da365044.png)
  
+ Com o Runbook criado, deve-se agora editá-lo. Vamos utilizar o script [start-stop.ps1](https://github.com/plss-github/Start-Stop-VM-Azure/blob/main/start-stop.ps1). Copie e cole o scrip no editor, em seguida clique em salvar e publicar
+ ![image](https://user-images.githubusercontent.com/83661016/148555683-f0351f8a-4332-4de4-932c-bc0c716ed6aa.png)
+
+
  
 
 
