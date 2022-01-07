@@ -66,7 +66,7 @@ O metodo 1 consiste no uso de Runbooks e agendas para executar scripts de ligame
 
  ![image](https://user-images.githubusercontent.com/83661016/148557944-69f1444c-2314-43a7-b55f-636bef5c434f.png)
 
-Nesse momento finalizados a configuração do primeiro metodo, lembrar que nesse modelo de permissão temos uma validade de um ano.
+Nesse momento finalizamos a configuração do primeiro metodo, lembrar que nesse modelo de permissão temos uma validade de um ano.
  
 
 
